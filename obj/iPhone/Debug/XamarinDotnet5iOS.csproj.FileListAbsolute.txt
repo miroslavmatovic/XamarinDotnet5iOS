@@ -1,0 +1,14 @@
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\bin\iPhone\Debug\XamarinDotnet5iOS.exe
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\bin\iPhone\Debug\XamarinDotnet5iOS.pdb
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\optimized\
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\XamarinDotnet5iOS.csproj.CoreCompileInputs.cache
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\XamarinDotnet5iOS.csproj.CopyComplete
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\XamarinDotnet5iOS.exe
+D:\PROJECTS\test\XamarinDotnet5iOS\XamarinDotnet5iOS\obj\iPhone\Debug\XamarinDotnet5iOS.pdb

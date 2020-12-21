@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PROJECTS\\test\\XamarinDotnet5iOS\\XamarinDotnet5iOS\\XamarinDotnet5iOS.csproj": {}
+  },
+  "projects": {
+    "D:\\PROJECTS\\test\\XamarinDotnet5iOS\\XamarinDotnet5iOS\\XamarinDotnet5iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJECTS\\test\\XamarinDotnet5iOS\\XamarinDotnet5iOS\\XamarinDotnet5iOS.csproj",
+        "projectName": "XamarinDotnet5iOS",
+        "projectPath": "D:\\PROJECTS\\test\\XamarinDotnet5iOS\\XamarinDotnet5iOS\\XamarinDotnet5iOS.csproj",
+        "packagesPath": "C:\\Users\\v-mirosm\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECTS\\test\\XamarinDotnet5iOS\\XamarinDotnet5iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v-mirosm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mseng.pkgs.visualstudio.com/_packaging/Analytics/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/msmobilecenter/_packaging/AppCenterNuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
